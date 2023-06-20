@@ -59,7 +59,8 @@ Step 3: bạn sẽ thấy trong thư mục ethermint sẽ có lệnh bash, chún
 
 bash init.sh
 Và kết quả:
-image
+![image](https://github.com/nmtneo/shi/assets/94493542/ec9bf136-228e-4e77-ba8d-145049d52f76)
+
 
 Step 4: tiến hành thiết lập môi trường:
 
