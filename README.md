@@ -75,4 +75,3 @@ Note: bạn cần thay đổi IP của bạn
 
 Kết quả: image
 
-image
